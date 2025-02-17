@@ -50,3 +50,4 @@ def main(duel_res: list) -> str:
 
 # Тестовый вызов функции main.
 print(main(TEST_DATA))
+print(print.__doc__)
